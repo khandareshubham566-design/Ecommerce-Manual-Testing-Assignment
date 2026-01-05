@@ -16,5 +16,3 @@ https://www.demoblaze.com/
 - Manual Testing
 - GitHub
 
-## Author
-Laxman Shubham
